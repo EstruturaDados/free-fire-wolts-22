@@ -1,4 +1,3 @@
-c
 #include <stdio.h>
 #include <stdlib.h> // Para malloc e free (lista encadeada) e exit
 #include <string.h> // Para strcpy, strcmp, strcasecmp, strcspn
@@ -421,8 +420,3 @@ void buscarSequencialLista() {
     }
      printf("Contador de comparacoes na busca sequencial: %lld\n", comparacoesSequencial);
 }
-Use o código com cuidado.
-
-
-
-
